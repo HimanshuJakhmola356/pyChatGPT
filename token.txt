@@ -1,6 +1,0 @@
-Name = mp_d7d7628de9d5e6160010b84db960a7ee_mixpanel..
-value = %7B%22distinct_id%22%3A%20%22user-2j89x0RU3CMqocmMBtiVKS8U%22%2C%22%24device_id%22%3A%20%22184f1b8ae513f7-07e902eed5cc32-26021151-144000-184f1b8ae5211e0%22%2C%22%24search_engine%22%3A%20%22google%22%2C%22%24initial_referrer%22%3A%20%22https%3A%2F%2Faccounts.google.com%2F%22%2C%22%24initial_referring_domain%22%3A%20%22accounts.google.com%22%2C%22%24user_id%22%3A%20%22user-2j89x0RU3CMqocmMBtiVKS8U%22%7D
-Domain = .openai.com
-Expire = 2024-01-27T11:39:58.000Z
-size = 448
-priority = Medium
